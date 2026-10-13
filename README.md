@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! Check out my carrd (linked in profile) for more information about me
 
 <!--
 **FAVMAGE/favmage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
